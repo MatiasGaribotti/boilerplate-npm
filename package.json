@@ -1,4 +1,6 @@
 {
+    "author": "Matías Garibotti",
+    "description": "This is the description for my package.json of Free Code Camp course of APIs and Microservices",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
